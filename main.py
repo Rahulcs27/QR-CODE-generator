@@ -1,4 +1,4 @@
-import tkinter as tk
+import Tkinter as tk
 import qrcode
 from PIL import ImageTk,Image
 from resizeimage import resizeimage
